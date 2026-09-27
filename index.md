@@ -1,0 +1,16 @@
+# 陈柏志 · 白纸上（首页）
+
+> 来源：[https://baizhichen-web.github.io/index.md](https://baizhichen-web.github.io/index.md)（本站首页的 Markdown 副本）
+
+我喜爱阅读、运动和创造，致力在交叉领域中探索新的可能
+
+## 作品集项目（海报墙）
+
+
+（以上封面与详情页内容待白纸供料后补齐——当前为占位标注，零假数据。）
+
+## 项目详情页（内容系统）
+
+- [如切如磋，如琢如磨](https://baizhichen-web.github.io/projects/ceramic-cmf.md)
+- [儿童 AI 折纸打印机](https://baizhichen-web.github.io/projects/zhezhi-printer.md) — 儿童 AI 折纸热敏打印机——画稿即折纸的桌面设备，毕业设计的完整决策与验证记录。条目建设中。
+
