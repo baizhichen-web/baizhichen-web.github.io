@@ -232,7 +232,7 @@ otherProjects:
       - 'Correlated colour temperature effects on perceived temperature, translucency, glossiness and roughness of traditional Jun porcelain, modulated by gender'
       - 'Using Jun porcelain as the stimulus, 30 participants rated five perceptual dimensions — glossiness, translucency, roughness, perceived temperature and relief — across eight correlated colour temperatures from 2700 to 6000 K at a constant 150 lx. Colour temperature showed a significant linear relationship with four of the five, with gender acting as a moderator.'
       - |
-        DOI 10.1177/14771535261455253　(authorship position to be confirmed)
+        DOI 10.1177/14771535261455253　(third author)
   - period: '2023.09–2024.12'
     title: 'Ozone Catalytic Oxidation Reactor'
     highlight: 'Utility patent · Internet+ Silver · Qingtai TOP100'
@@ -344,10 +344,6 @@ docs:
     sub: 'PORTFOLIO · PDF'
     section: 'projects'
     href: '/docs/portfolio.pdf'
-  - title: 'Award certificates'
-    sub: 'AWARDS · PDF'
-    section: 'awards'
-    href: '/docs/awards.pdf'
   - title: 'Undergraduate transcript'
     sub: 'TRANSCRIPT · PDF'
     section: 'courses'
@@ -451,7 +447,7 @@ otherProjects:\r
       - 'Correlated colour temperature effects on perceived temperature, translucency, glossiness and roughness of traditional Jun porcelain, modulated by gender'\r
       - '以钧瓷为对象，在 2700–6000K 八档色温、恒定 150lx 条件下测量 30 名被试对光泽度、透明度、粗糙度、温度感与浮雕感五个维度的感知：色温与其中四个维度呈显著线性关系，且性别具调节作用。'\r
       - |\r
-        DOI: 10.1177/14771535261455253　（作者位次待确认）\r
+        DOI: 10.1177/14771535261455253　（第三作者）\r
   - period: '2023.09–2024.12'\r
     title: '臭氧催化氧化配套反应装置'\r
     highlight: '实用新型专利 · 互联网+ 银奖 · 青苔 TOP100'\r
@@ -563,10 +559,6 @@ docs:\r
     sub: 'PORTFOLIO · PDF'\r
     section: 'projects'\r
     href: '/docs/portfolio.pdf'\r
-  - title: '获奖证书合集'\r
-    sub: 'AWARDS · PDF'\r
-    section: 'awards'\r
-    href: '/docs/awards.pdf'\r
   - title: '本科成绩单'\r
     sub: 'TRANSCRIPT · PDF'\r
     section: 'courses'\r
