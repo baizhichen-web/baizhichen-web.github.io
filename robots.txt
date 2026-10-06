@@ -11,5 +11,3 @@ Allow: /
 
 User-agent: *
 Allow: /
-
-Sitemap: https://baizhichen-web.github.io/sitemap.xml

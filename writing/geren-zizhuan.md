@@ -1,10 +1,10 @@
 # 个人自传
 
-> 来源：[https://baizhichen-web.github.io/writing/geren-zizhuan.md](https://baizhichen-web.github.io/writing/geren-zizhuan.md)（本站文章的 Markdown 副本）
+> 来源：[/writing/geren-zizhuan.md](/writing/geren-zizhuan.md)（本站文章的 Markdown 副本）
 
 时间：2026.09 · 体裁：自传
 
-![个人自传——封面取自「自己」所在局部](https://baizhichen-web.github.io/media/writing/geren-zizhuan/calli.webp)
+![个人自传——封面取自「自己」所在局部](/media/writing/geren-zizhuan/calli.webp)
 
 **摘要** — 从家里的小卖部写起，回望二十二年的观察、设计与成长，把自己当作第一个设计对象。
 
@@ -22,10 +22,10 @@
 
 这就像一方小小的田野天地，像是一只牛奶盒正好安放在栅栏顶端的方框上，无意识设计在这个小店里面涌现，我也无意识地练习了观察这些无意识的举动、微小而真实的痕迹。
 
-![小店的现如今样子](https://baizhichen-web.github.io/media/zizhuan/01-xiaodian.webp)
+![小店的现如今样子](/media/zizhuan/01-xiaodian.webp)
 *小店的现如今样子*
 
-![《深泽直人》和《设计的生态学》书中分享的"潜意识行为"](https://baizhichen-web.github.io/media/zizhuan/02-shenze.webp)
+![《深泽直人》和《设计的生态学》书中分享的"潜意识行为"](/media/zizhuan/02-shenze.webp)
 *《深泽直人》和《设计的生态学》书中分享的"潜意识行为"*
 
 就是这样一间小店记录着一个孩子的成长，一个家庭的成长，一条街道的成长，一个社区的成长。

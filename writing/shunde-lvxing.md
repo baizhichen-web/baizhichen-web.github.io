@@ -1,10 +1,10 @@
 # 圆周旅迹在顺德的三天两夜
 
-> 来源：[https://baizhichen-web.github.io/writing/shunde-lvxing.md](https://baizhichen-web.github.io/writing/shunde-lvxing.md)（本站文章的 Markdown 副本）
+> 来源：[/writing/shunde-lvxing.md](/writing/shunde-lvxing.md)（本站文章的 Markdown 副本）
 
 时间：2026.07 · 体裁：游记
 
-![圆周旅迹在顺德的三天两夜——封面取自「旅迹」所在局部](https://baizhichen-web.github.io/media/writing/shunde-lvxing/calli.webp)
+![圆周旅迹在顺德的三天两夜——封面取自「旅迹」所在局部](/media/writing/shunde-lvxing/calli.webp)
 
 **摘要** — 带舍友用圆周旅迹走完顺德三天两夜，把一次旅行当产品拆解——发心、定位、不可能三角与三个错位。
 
@@ -29,10 +29,10 @@
 
 但实话说，更多打动我的还有这个产品的UI设计。以及他在小红书上有意思的营销策略。
 
-![该产品的UI设计（来源：圆周旅迹小红书）](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-01.webp)
+![该产品的UI设计（来源：圆周旅迹小红书）](/media/writing/shunde-lvxing/fig-01.webp)
 *该产品的UI设计（来源：圆周旅迹小红书）*
 
-![有趣的功能策划与营销（来源：圆周旅迹小红书）](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-02.webp)
+![有趣的功能策划与营销（来源：圆周旅迹小红书）](/media/writing/shunde-lvxing/fig-02.webp)
 *有趣的功能策划与营销（来源：圆周旅迹小红书）*
 
 ### 定位第二
@@ -181,7 +181,7 @@ AI旅行规划最大的卖点是「智能」推荐。但实际体验往往让人
 
 （可以借鉴高德，以三条横杠并列来表示可以拖动调整）
 
-![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-03.webp)
+![](/media/writing/shunde-lvxing/fig-03.webp)
 
 ## 四、顺德三天两夜
 
@@ -203,11 +203,11 @@ AI旅行规划最大的卖点是「智能」推荐。但实际体验往往让人
 
 《浮生六记》里，沈复写芸娘生动，正因为那些细碎的日常，后来读来才觉得真实。旅行或许也是这样。规划回答的是「我要去哪」，记录回答的却是「我曾经怎样到过那里」。
 
-![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-04.webp)
+![](/media/writing/shunde-lvxing/fig-04.webp)
 
-![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-05.webp)
+![](/media/writing/shunde-lvxing/fig-05.webp)
 
-![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-06.webp)
+![](/media/writing/shunde-lvxing/fig-06.webp)
 
 ## 五、我的期待
 

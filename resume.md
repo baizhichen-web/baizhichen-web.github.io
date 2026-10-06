@@ -2,7 +2,7 @@
 
 陈柏志 — 设计专硕研究生在读
 
-> 来源：[https://baizhichen-web.github.io/resume.md](https://baizhichen-web.github.io/resume.md)（本站页面 "简历" 的 Markdown 副本）
+> 来源：[/resume.md](/resume.md)（本站页面 "简历" 的 Markdown 副本）
 
 政治面貌：中共党员　外语：CET6-478
 
@@ -19,7 +19,7 @@
   - 推免至北京师范大学未来设计学院
   - 校区：厦门 · 福建
 
-GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 527 次贡献 / 61 个活跃日（2025-10-05 → 2026-10-05）
+GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 549 次贡献 / 62 个活跃日（2025-10-05 → 2026-10-06）
 
 ## 关于
 
@@ -55,10 +55,10 @@ GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 527
 
 **厦门鹿匠科技** — 硬件产品实习生（2025.11–2026.03）
 
-- 统筹热敏打印机产品 NPI：对齐跨部门需求与关键节点，推动研发按期输出量产资料；沉淀并维护交付物体系与输入输出标准。
-- 负责样机验证与技术测试（功能调试、固件迭代、可靠性、兼容性），建设测试用例库与报告规范，支撑风险管控与放行决策。
-- 主导量产工艺与文件体系：编制 BOM、SOP、工艺卡等，打通研发到量产的落地链路，支撑成本优化与方案复用。
-- 参与前期定义与 ID 方案输出，结合用户数据与市场需求保障设计可落地。
+- 统筹 10 款热敏打印机产品 NPI：对齐跨部门需求与关键节点，推动研发按期输出量产资料，研发周期缩短 18%；沉淀并维护交付物体系与输入输出标准。
+- 负责样机验证与技术测试（功能调试、固件迭代、可靠性、兼容性），建设 80+ 项测试用例库与报告规范，90% 以上的问题在研发期被拦截，支撑风险管控与放行决策。
+- 主导量产工艺与文件体系：编制 BOM、SOP、工艺卡等全套量产文件，打通研发到量产的落地链路，支撑成本优化与方案复用。
+- 参与前期定义与 ID 方案输出，结合用户数据与市场需求保障设计可落地；基于 9000 条用户售后数据建立分析模型，反哺产品改进。
 
 ## 其他项目经历
 
@@ -90,7 +90,7 @@ DOI: 10.1177/14771535261455253　（第三作者）
 
 协助辅导员与班主任开展新生入学适应、班级建设与学业引导工作。参与迎新接待、入学教育与日常管理，组织破冰交流、主题班会与专业认知活动，对接新生日常事务与答疑，协助评奖评优、材料整理与信息统计，关注新生心理与适应情况，搭建新生与院系之间的沟通桥梁。
 
-- SCI 收录检索证明（SCI PROOF · PDF）：https://baizhichen-web.github.io/docs/sci-proof.pdf
+- SCI 收录检索证明（SCI PROOF · PDF）：/docs/sci-proof.pdf
 
 ## 获奖
 
@@ -149,7 +149,7 @@ DOI: 10.1177/14771535261455253　（第三作者）
 - 设计表现技法Ⅰ：92
 - 设计素描Ⅰ：91
 
-- 本科成绩单（TRANSCRIPT · PDF）：https://baizhichen-web.github.io/docs/transcript.pdf
+- 本科成绩单（TRANSCRIPT · PDF）：/docs/transcript.pdf
 
 ## 自我评价
 
@@ -174,6 +174,6 @@ DOI: 10.1177/14771535261455253　（第三作者）
 - 邮箱：202622089004@mail.bnu.edu.cn
 - 小红书：https://www.xiaohongshu.com/user/profile/5d554004000000001200b5d5
 - GitHub：https://github.com/baizhichen-web
-- 简历 PDF（中文）（RESUME · PDF）：https://baizhichen-web.github.io/docs/resume.pdf
-- 作品集（10 个项目）（PORTFOLIO · PDF）：https://baizhichen-web.github.io/docs/portfolio.pdf
+- 简历 PDF（中文）（RESUME · PDF）：/docs/resume.pdf
+- 作品集（10 个项目）（PORTFOLIO · PDF）：/docs/portfolio.pdf
 

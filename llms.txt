@@ -6,21 +6,21 @@
 
 ## 页面
 
-- [简历](https://baizhichen-web.github.io/resume.md)：教育、实习、项目经历、获奖、课程成绩、自我评价、联系（证明材料随各节附出）
-- [首页（作品集总览）](https://baizhichen-web.github.io/index.md)：海报墙项目一览
+- [简历](/resume.md)：教育、实习、项目经历、获奖、课程成绩、自我评价、联系（证明材料随各节附出）
+- [首页（作品集总览）](/index.md)：海报墙项目一览
 
 ## 文章
 
-- [个人自传](https://baizhichen-web.github.io/writing/geren-zizhuan.md)（2026.09）：从家里的小卖部写起，回望二十二年的观察、设计与成长，把自己当作第一个设计对象。
-- [Personal Autobiography](https://baizhichen-web.github.io/writing/geren-zizhuan.en.md) (2026.09) — “I am about to do a difficult work, one that has no precedent and will have no imitator. I mean to lay bare the true face of a man before the world, and that man is myself.” — Rousseau · English
-- [开始写作是我和AI的协作方案](https://baizhichen-web.github.io/writing/kaishi-xiezuo.md)（2026.07）：从一句『等我问问 AI』说起，谈 AI 时代的知识内化——做减法、兼听则明、用表达来学习。
-- [Starting to Write Is My Plan for Collaborating with AI](https://baizhichen-web.github.io/writing/kaishi-xiezuo.en.md) (2026.07) — I write the way Forrest Gump told his story — talking on about his whole life without a care for who was around him, on that bench, while the people beside him kept changing. Some stopped to listen, some walked away, and now and then someone would nod or ask a question. · English
-- [我们是很愿意协助、帮助任何人，甚至我们的竞争对手](https://baizhichen-web.github.io/writing/liangwenfeng.md)（2026.07）：并读 Dean Ball、阿莫迪与梁文锋三场表态，看见三种 AI 世界观，落回梁文锋的『不争』。
-- [We are very willing to help and assist anyone, even our competitors](https://baizhichen-web.github.io/writing/liangwenfeng.en.md) (2026.07) — Three statements, three worldviews — from Dean W. Ball and Dario Amodei to Liang Wenfeng · English
-- [圆周旅迹在顺德的三天两夜](https://baizhichen-web.github.io/writing/shunde-lvxing.md)（2026.07）：带舍友用圆周旅迹走完顺德三天两夜，把一次旅行当产品拆解——发心、定位、不可能三角与三个错位。
-- [Three Days and Two Nights in Shunde with 圆周旅迹 (Zhouyuan Lüji)](https://baizhichen-web.github.io/writing/shunde-lvxing.en.md) (2026.07) — A product I like, and my trip. · English
+- [个人自传](/writing/geren-zizhuan.md)（2026.09）：从家里的小卖部写起，回望二十二年的观察、设计与成长，把自己当作第一个设计对象。
+- [Personal Autobiography](/writing/geren-zizhuan.en.md) (2026.09) — “I am about to do a difficult work, one that has no precedent and will have no imitator. I mean to lay bare the true face of a man before the world, and that man is myself.” — Rousseau · English
+- [开始写作是我和AI的协作方案](/writing/kaishi-xiezuo.md)（2026.07）：从一句『等我问问 AI』说起，谈 AI 时代的知识内化——做减法、兼听则明、用表达来学习。
+- [Starting to Write Is My Plan for Collaborating with AI](/writing/kaishi-xiezuo.en.md) (2026.07) — I write the way Forrest Gump told his story — talking on about his whole life without a care for who was around him, on that bench, while the people beside him kept changing. Some stopped to listen, some walked away, and now and then someone would nod or ask a question. · English
+- [我们是很愿意协助、帮助任何人，甚至我们的竞争对手](/writing/liangwenfeng.md)（2026.07）：并读 Dean Ball、阿莫迪与梁文锋三场表态，看见三种 AI 世界观，落回梁文锋的『不争』。
+- [We are very willing to help and assist anyone, even our competitors](/writing/liangwenfeng.en.md) (2026.07) — Three statements, three worldviews — from Dean W. Ball and Dario Amodei to Liang Wenfeng · English
+- [圆周旅迹在顺德的三天两夜](/writing/shunde-lvxing.md)（2026.07）：带舍友用圆周旅迹走完顺德三天两夜，把一次旅行当产品拆解——发心、定位、不可能三角与三个错位。
+- [Three Days and Two Nights in Shunde with 圆周旅迹 (Zhouyuan Lüji)](/writing/shunde-lvxing.en.md) (2026.07) — A product I like, and my trip. · English
 
 ## 项目
 
-- [如切如磋，如琢如磨](https://baizhichen-web.github.io/projects/ceramic-cmf.md)：陶瓷 CMF 与 AI 工具结合的实验创作——从釉料与材质实验走向可验证的设计决策。条目建设中。
-- [儿童 AI 折纸打印机](https://baizhichen-web.github.io/projects/zhezhi-printer.md)：儿童 AI 折纸热敏打印机——画稿即折纸的桌面设备，毕业设计的完整决策与验证记录。条目建设中。
+- [如切如磋，如琢如磨](/projects/ceramic-cmf.md)：陶瓷 CMF 与 AI 工具结合的实验创作——从釉料与材质实验走向可验证的设计决策。条目建设中。
+- [儿童 AI 折纸打印机](/projects/zhezhi-printer.md)：儿童 AI 折纸热敏打印机——画稿即折纸的桌面设备，毕业设计的完整决策与验证记录。条目建设中。

@@ -1,10 +1,10 @@
 # 开始写作是我和AI的协作方案
 
-> 来源：[https://baizhichen-web.github.io/writing/kaishi-xiezuo.md](https://baizhichen-web.github.io/writing/kaishi-xiezuo.md)（本站文章的 Markdown 副本）
+> 来源：[/writing/kaishi-xiezuo.md](/writing/kaishi-xiezuo.md)（本站文章的 Markdown 副本）
 
 时间：2026.07 · 体裁：随笔
 
-![开始写作是我和AI的协作方案——封面取自作品局部](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/calli-zoom.webp)
+![开始写作是我和AI的协作方案——封面取自作品局部](/media/writing/kaishi-xiezuo/calli-zoom.webp)
 
 **摘要** — 从一句『等我问问 AI』说起，谈 AI 时代的知识内化——做减法、兼听则明、用表达来学习。
 
@@ -14,13 +14,13 @@
 
 恰好那段时间我读到一篇博客，标题正叫"Stop Telling Me To Ask An LLM"【1】。
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-01.webp)
+![](/media/writing/kaishi-xiezuo/fig-01.webp)
 
 作者从一个亲身经历讲起。他有一个棘手的问题，没有行业共识，多方研究后依然无解。于是，他特意约了一位有30年经验、经历过决策失误的资深人士，想听听从惨痛教训中沉淀出的、搜索引擎给不了的判断。结果对方的回答是："Honestly? Ask Claude."
 
 作者提到过去的LMGTFY【2】链接发给别人是讽刺伸手党不愿做基础检索，现在的“问AI”更像是发你一份美食榜单，却拒绝告诉你“我个人觉得哪里不对”。
 
-![时代发展，已经出现chatGPT版本的LMGTFY（或应该叫LMAITFY） https://lmgtfy2.com/s/eBxY3n（GIF链接，大家可以去试试）](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-02.webp)
+![时代发展，已经出现chatGPT版本的LMGTFY（或应该叫LMAITFY） https://lmgtfy2.com/s/eBxY3n（GIF链接，大家可以去试试）](/media/writing/kaishi-xiezuo/fig-02.webp)
 *时代发展，已经出现chatGPT版本的LMGTFY（或应该叫LMAITFY） https://lmgtfy2.com/s/eBxY3n（GIF链接，大家可以去试试）*
 
 是的，所以在美食榜单方面，我是一个比较好的在地导游，所以我都会跟来我家乡玩的伙伴们推荐从小吃到大的在地美食。他们寻求你意见，实际上是寻求你的经验，大家在意的绝对是希望找到最有特色的美食，至少是代表了我希望他们吃的。
@@ -45,7 +45,7 @@
 
 fast.ai 的创始人 Jeremy Howard 最近和 Chris Lattner 做了一次对谈，Jeremy 说，他看到的是开发者放弃了一切通往理解、精通和持久软件的实践。CEO 们吹嘘团队日产万行 AI 代码，工程师也骄傲地自称自己搞的是"vibe-coding"。说的是 Vibe Coding 扩散到了整个社会，老人小孩都在用，大家不求甚解，摸着AI的脾气过去即可。【7】
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-03.webp)
+![](/media/writing/kaishi-xiezuo/fig-03.webp)
 
 我们在奔向一个怎样的未来？
 
@@ -59,7 +59,7 @@ fast.ai 的创始人 Jeremy Howard 最近和 Chris Lattner 做了一次对谈，
 
 把每个小孩按水平分配到一个班级里，命以少年班、火箭班、创新班、提高班，这只能削足适履地损坏了每个孩子的个性和探索热情。就像上海科技馆馆长倪闽景在一席少年上的演讲讲到——初二物理课教能量守恒定律，最聪明的孩子一看就懂。一个"最笨"的孩子举手问："能量既然是这样，为什么会有能源危机？"而让最聪明的同学来回答——老师，我也不知道。【10】
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-04.webp)
+![](/media/writing/kaishi-xiezuo/fig-04.webp)
 
 孔子的弟子三千，贤者七十二，子路好勇，子贡善辩，颜回安贫，冉求多才，夫子因材施教，不曾将他们捏成一个模子【11】。教育不是为了打造很多个一模一样的天才，创造并滋养一片让创新自然涌现的沃土。创新不怕愚蠢，就怕相同，AI的发展也如此。
 
@@ -91,7 +91,7 @@ AI 训练追求均值，AI 的输出又回流到训练数据，每一代都比�
 
 我经常能看到在某些视频下面有评论在@各种各样的ai来做总结，考虑完播率的视频的博主或许心情复杂——「得来终觉浅，绝知此事要躬行」，更何况未经阅读，收到的是别人视频的二手知识，而自己更要将这样的二手知识转换成AI摘要的三手知识。
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-05.webp)
+![](/media/writing/kaishi-xiezuo/fig-05.webp)
 
 信息在大脑中如过眼云烟，隔日即逝。这种看似高效的捷径，恰恰是对生命最大的虚掷，不如潜下心来，真切地读一遍、做一遍。
 
@@ -117,7 +117,7 @@ AI 总结的理应被称为显性知识，但是出于AI能力的不足、可能
 
 国内AI大V张咋啦怀着这样的看法：告诉我们去youtube、去推特，看关键的⼈，看⼀⼿信息（Builder, not influencer）【20】；我这段「做减法」的观点来自于的博主张司机，他也说： 他的内容来源于 Andrej Karpathy 这些最厉害的 AI 从业者的长播客和推文，再加上经典的书籍，他的信息来源其实很少，但是每一个他都会认真的看。【21】
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-06.webp)
+![](/media/writing/kaishi-xiezuo/fig-06.webp)
 
 > 上问魏征曰："人主何为而明，何为而暗？"   对曰："**兼听则明，偏信则暗。**昔尧清问下民，故有苗之恶得以上闻；舜明四目，达四聪，故共、鲧、驩兜不能蔽也。秦二世偏信赵高，以成望夷之祸；梁武帝偏信朱异，以取台城之辱；隋炀帝偏信虞世基，以致彭城阁之变。是故人君兼听广纳，则贵臣不得拥蔽，而下情得以上通也。"   上曰："善！"【22】
 > —— 《贞观政要·卷一·君道》（亦见《资治通鉴·唐纪八》）
@@ -157,7 +157,7 @@ AI 总结的理应被称为显性知识，但是出于AI能力的不足、可能
 
 同样来自zara和张司机，他们都认为需要建⽴⼀个能让⾃⼰持续输出的机制，或者说用表达来学习。【25】
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-07.webp)
+![](/media/writing/kaishi-xiezuo/fig-07.webp)
 
 AI正在大爆发，我相信每个人的起点都不会差距很大，但是思考和应用之间绝对有gap，所以我认为我需要把自己想说的内容、学习的过程记录下来。
 
@@ -165,11 +165,11 @@ AI正在大爆发，我相信每个人的起点都不会差距很大，但是思
 
 我如今的实践是：用 AI 做初步的素材整理和关联——把散落在收藏夹和知识库中的笔记、文章、想法串起来——把漂浮在我和AI之间的信息碎片通过写作串联。像是山鲁佐德为拯救无辜的女子，自愿嫁给国王，一夜一个故事，串成了「一千零一夜」【27】，我也把我收集的信息和素材串联，产出这样一篇文章。
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-08.webp)
+![](/media/writing/kaishi-xiezuo/fig-08.webp)
 
 我会选择在小红书或者微信公众号这样的平台上，或者说社交媒体上来发布这些文章，我觉得就像「阿甘正传」【28】，阿甘旁若无人的讲他一辈子的故事，在那个长凳上，旁边人却一直在换，有人驻足，有人离去，偶尔有人点点头，或者问上一句。
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-09.webp)
+![](/media/writing/kaishi-xiezuo/fig-09.webp)
 
 如果你看到这里，那非常感谢！不论是我还是阿甘，我认为这都会给我一点反馈，无论外界反馈如何，这种表达本身，便给了我对抗虚无的力道。
 

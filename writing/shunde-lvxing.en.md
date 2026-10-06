@@ -1,10 +1,10 @@
 # Three Days and Two Nights in Shunde with 圆周旅迹 (Zhouyuan Lüji)
 
-> 来源：[https://baizhichen-web.github.io/writing/shunde-lvxing.en.md](https://baizhichen-web.github.io/writing/shunde-lvxing.en.md)（本站文章的 Markdown 副本 · English edition）
+> 来源：[/writing/shunde-lvxing.en.md](/writing/shunde-lvxing.en.md)（本站文章的 Markdown 副本 · English edition）
 
 Date：2026.07 · Form：Travel Notes
 
-![Three Days and Two Nights in Shunde with 圆周旅迹 (Zhouyuan Lüji)——封面取自「旅迹」所在局部](https://baizhichen-web.github.io/media/writing/shunde-lvxing/calli.webp)
+![Three Days and Two Nights in Shunde with 圆周旅迹 (Zhouyuan Lüji)——封面取自「旅迹」所在局部](/media/writing/shunde-lvxing/calli.webp)
 
 **Summary** — 带舍友用圆周旅迹走完顺德三天两夜，把一次旅行当产品拆解——发心、定位、不可能三角与三个错位。
 
@@ -29,10 +29,10 @@ As someone interested in product design, I was moved by 圆周旅迹's founding 
 
 But honestly, what moved me more was the product's UI design. And its rather clever marketing on Xiaohongshu.
 
-![The app's UI design (from 圆周旅迹 on Xiaohongshu)](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-01.webp)
+![The app's UI design (from 圆周旅迹 on Xiaohongshu)](/media/writing/shunde-lvxing/fig-01.webp)
 *The app's UI design (from 圆周旅迹 on Xiaohongshu)*
 
-![Playful feature planning and marketing (from 圆周旅迹 on Xiaohongshu)](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-02.webp)
+![Playful feature planning and marketing (from 圆周旅迹 on Xiaohongshu)](/media/writing/shunde-lvxing/fig-02.webp)
 *Playful feature planning and marketing (from 圆周旅迹 on Xiaohongshu)*
 
 ### Second — Positioning
@@ -181,7 +181,7 @@ If a high-frequency function has to be discovered by accident, then in experienc
 
 (Amap could be the reference here — three parallel bars to signal that something can be dragged.)
 
-![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-03.webp)
+![](/media/writing/shunde-lvxing/fig-03.webp)
 
 ## IV. Three Days and Two Nights in Shunde
 
@@ -203,11 +203,11 @@ Later, looking back at the map, what had been separate places were joined by the
 
 In Six Chapters of a Floating Life, Shen Fu's portrait of Yunniang feels so vivid precisely because of those small, fragmentary details; reading them later is what makes them feel true. Travel is perhaps the same. Planning answers "where am I going"; recording answers "how did I once get there."
 
-![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-04.webp)
+![](/media/writing/shunde-lvxing/fig-04.webp)
 
-![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-05.webp)
+![](/media/writing/shunde-lvxing/fig-05.webp)
 
-![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-06.webp)
+![](/media/writing/shunde-lvxing/fig-06.webp)
 
 ## V. What I Hope For
 
