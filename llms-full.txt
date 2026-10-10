@@ -69,7 +69,7 @@
   - 推免至北京师范大学未来设计学院
   - 校区：厦门 · 福建
 
-GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 607 次贡献 / 67 个活跃日（2025-10-12 → 2026-10-11）
+GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 611 次贡献 / 67 个活跃日（2025-10-12 → 2026-10-11）
 
 ## 关于
 
@@ -325,7 +325,8 @@ DOI: 10.1177/14771535261455253　（第三作者）
 
 恰好那段时间我读到一篇博客，标题正叫"Stop Telling Me To Ask An LLM"【1】。
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-01.webp)
+![String Literal 博客《Stop Telling Me To Ask An LLM》页面截图（2026 年 7 月 8 日）](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-01.webp)
+*String Literal 博客《Stop Telling Me To Ask An LLM》页面截图（2026 年 7 月 8 日）*
 
 作者从一个亲身经历讲起。他有一个棘手的问题，没有行业共识，多方研究后依然无解。于是，他特意约了一位有30年经验、经历过决策失误的资深人士，想听听从惨痛教训中沉淀出的、搜索引擎给不了的判断。结果对方的回答是："Honestly? Ask Claude."
 
@@ -356,7 +357,8 @@ DOI: 10.1177/14771535261455253　（第三作者）
 
 fast.ai 的创始人 Jeremy Howard 最近和 Chris Lattner 做了一次对谈，Jeremy 说，他看到的是开发者放弃了一切通往理解、精通和持久软件的实践。CEO 们吹嘘团队日产万行 AI 代码，工程师也骄傲地自称自己搞的是"vibe-coding"。说的是 Vibe Coding 扩散到了整个社会，老人小孩都在用，大家不求甚解，摸着AI的脾气过去即可。【7】
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-03.webp)
+![fast.ai 创始人 Jeremy Howard 与 Chris Lattner 的对谈节目《Build to Last》封面](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-03.webp)
+*fast.ai 创始人 Jeremy Howard 与 Chris Lattner 的对谈节目《Build to Last》封面*
 
 我们在奔向一个怎样的未来？
 
@@ -370,7 +372,8 @@ fast.ai 的创始人 Jeremy Howard 最近和 Chris Lattner 做了一次对谈，
 
 把每个小孩按水平分配到一个班级里，命以少年班、火箭班、创新班、提高班，这只能削足适履地损坏了每个孩子的个性和探索热情。就像上海科技馆馆长倪闽景在一席少年上的演讲讲到——初二物理课教能量守恒定律，最聪明的孩子一看就懂。一个"最笨"的孩子举手问："能量既然是这样，为什么会有能源危机？"而让最聪明的同学来回答——老师，我也不知道。【10】
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-04.webp)
+![倪闽景在一席少年的演讲截图——按水平分班，只会削足适履](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-04.webp)
+*倪闽景在一席少年的演讲截图——按水平分班，只会削足适履*
 
 孔子的弟子三千，贤者七十二，子路好勇，子贡善辩，颜回安贫，冉求多才，夫子因材施教，不曾将他们捏成一个模子【11】。教育不是为了打造很多个一模一样的天才，创造并滋养一片让创新自然涌现的沃土。创新不怕愚蠢，就怕相同，AI的发展也如此。
 
@@ -402,7 +405,8 @@ AI 训练追求均值，AI 的输出又回流到训练数据，每一代都比�
 
 我经常能看到在某些视频下面有评论在@各种各样的ai来做总结，考虑完播率的视频的博主或许心情复杂——「得来终觉浅，绝知此事要躬行」，更何况未经阅读，收到的是别人视频的二手知识，而自己更要将这样的二手知识转换成AI摘要的三手知识。
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-05.webp)
+![视频评论区里齐刷刷 @AI 求总结成了新风潮（截图）](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-05.webp)
+*视频评论区里齐刷刷 @AI 求总结成了新风潮（截图）*
 
 信息在大脑中如过眼云烟，隔日即逝。这种看似高效的捷径，恰恰是对生命最大的虚掷，不如潜下心来，真切地读一遍、做一遍。
 
@@ -428,7 +432,8 @@ AI 总结的理应被称为显性知识，但是出于AI能力的不足、可能
 
 国内AI大V张咋啦怀着这样的看法：告诉我们去youtube、去推特，看关键的⼈，看⼀⼿信息（Builder, not influencer）【20】；我这段「做减法」的观点来自于的博主张司机，他也说： 他的内容来源于 Andrej Karpathy 这些最厉害的 AI 从业者的长播客和推文，再加上经典的书籍，他的信息来源其实很少，但是每一个他都会认真的看。【21】
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-06.webp)
+![小红书博主「张司机在路上」的视频——怎么获取更多更新的信息](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-06.webp)
+*小红书博主「张司机在路上」的视频——怎么获取更多更新的信息*
 
 > 上问魏征曰："人主何为而明，何为而暗？"   对曰："**兼听则明，偏信则暗。**昔尧清问下民，故有苗之恶得以上闻；舜明四目，达四聪，故共、鲧、驩兜不能蔽也。秦二世偏信赵高，以成望夷之祸；梁武帝偏信朱异，以取台城之辱；隋炀帝偏信虞世基，以致彭城阁之变。是故人君兼听广纳，则贵臣不得拥蔽，而下情得以上通也。"   上曰："善！"【22】
 > —— 《贞观政要·卷一·君道》（亦见《资治通鉴·唐纪八》）
@@ -468,7 +473,8 @@ AI 总结的理应被称为显性知识，但是出于AI能力的不足、可能
 
 同样来自zara和张司机，他们都认为需要建⽴⼀个能让⾃⼰持续输出的机制，或者说用表达来学习。【25】
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-07.webp)
+![对谈节目 PROLIFIC BUILDING 截图——建一个能让自己持续输出的机制](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-07.webp)
+*对谈节目 PROLIFIC BUILDING 截图——建一个能让自己持续输出的机制*
 
 AI正在大爆发，我相信每个人的起点都不会差距很大，但是思考和应用之间绝对有gap，所以我认为我需要把自己想说的内容、学习的过程记录下来。
 
@@ -476,11 +482,13 @@ AI正在大爆发，我相信每个人的起点都不会差距很大，但是思
 
 我如今的实践是：用 AI 做初步的素材整理和关联——把散落在收藏夹和知识库中的笔记、文章、想法串起来——把漂浮在我和AI之间的信息碎片通过写作串联。像是山鲁佐德为拯救无辜的女子，自愿嫁给国王，一夜一个故事，串成了「一千零一夜」【27】，我也把我收集的信息和素材串联，产出这样一篇文章。
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-08.webp)
+![我的 Obsidian 关系图谱——AI 帮忙把散落在各处的笔记串起来](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-08.webp)
+*我的 Obsidian 关系图谱——AI 帮忙把散落在各处的笔记串起来*
 
 我会选择在小红书或者微信公众号这样的平台上，或者说社交媒体上来发布这些文章，我觉得就像「阿甘正传」【28】，阿甘旁若无人的讲他一辈子的故事，在那个长凳上，旁边人却一直在换，有人驻足，有人离去，偶尔有人点点头，或者问上一句。
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-09.webp)
+![《阿甘正传》长椅剧照——旁若无人地讲一辈子的故事](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-09.webp)
+*《阿甘正传》长椅剧照——旁若无人地讲一辈子的故事*
 
 如果你看到这里，那非常感谢！不论是我还是阿甘，我认为这都会给我一点反馈，无论外界反馈如何，这种表达本身，便给了我对抗虚无的力道。
 
@@ -1084,7 +1092,8 @@ I was arguing with a friend about some question, right in the thick of it, when 
 
 Right around then I happened to read a blog post titled, of all things, "Stop Telling Me To Ask An LLM"【1】.
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-01.webp)
+![Screenshot of the String Literal post “Stop Telling Me To Ask An LLM” (8 July 2026)](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-01.webp)
+*Screenshot of the String Literal post “Stop Telling Me To Ask An LLM” (8 July 2026)*
 
 The author opens with a story from his own life. He had a thorny question, no industry consensus, and even after working through a pile of research it stayed unsolved. So he made a point of meeting a veteran with thirty years of experience, someone who had lived through bad calls, hoping for the kind of judgment that only settles out of painful lessons — the kind a search engine cannot give you. The man's answer was — "Honestly? Ask Claude."
 
@@ -1115,7 +1124,8 @@ With every wave, one human ability gets stamped as inefficient and handed over t
 
 fast.ai founder Jeremy Howard recently sat down with Chris Lattner for a conversation. Jeremy says what he sees is developers abandoning every practice that leads to understanding, mastery, and durable software. CEOs boast about teams shipping ten thousand lines of AI-generated code a day; engineers proudly call what they do "vibe-coding." And Vibe Coding has spread across society at large — the old and the young are all using it, nobody bothering to understand it deeply, just feeling out AI's temper and getting by.【7】
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-03.webp)
+![Cover of “Build to Last” — the Jeremy Howard × Chris Lattner conversation](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-03.webp)
+*Cover of “Build to Last” — the Jeremy Howard × Chris Lattner conversation*
 
 What kind of future are we running toward?
 
@@ -1129,7 +1139,8 @@ The same goes for education — of course we want to see more diversity in our c
 
 Sorting every child into a class by level — the gifted class, the rocket class, the innovation class, the remedial class — can only maim each child's individuality and appetite for exploration, cutting the feet to fit the shoes. Ni Minjing, director of the Shanghai Science and Technology Museum, told a story in his Yixi Youth talk. In an eighth-grade physics class on the conservation of energy, the smartest kid gets it at a glance. Then the "dumbest" kid raises his hand and asks — if energy works like that, why is there an energy crisis? And the smartest kid is asked to answer. Teacher, I have no idea either.【10】
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-04.webp)
+![Ni Minjing on stage at 一席少年 — tracking by level only misfits every child](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-04.webp)
+*Ni Minjing on stage at 一席少年 — tracking by level only misfits every child*
 
 Confucius had three thousand disciples, seventy-two of them virtuous. Zilu was brave, Zigong eloquent, Yan Hui content in poverty, Ran Qiu multitalented. The Master taught each according to his nature, never pressing them into a single mold【11】. Education is not about stamping out many identical geniuses; it is about creating and nourishing soil where innovation can emerge on its own. Innovation is not afraid of foolishness — it is afraid of sameness. The development of AI is no different.
 
@@ -1161,7 +1172,8 @@ First — you do not need AI to help you see more. What you need is to do subtra
 
 I often see comments under videos @-ing all sorts of AIs to summarize them. The video creator, who has to worry about completion rate, probably has complicated feelings — "what you get from others always feels shallow; to truly know a thing, you must do it yourself." And that is before you consider — without reading it yourself, what you receive is secondhand knowledge from someone else's video, which you then turn into thirdhand knowledge through an AI summary.
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-05.webp)
+![Comment sections now full of @-ed AIs asked to summarize (screenshot)](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-05.webp)
+*Comment sections now full of @-ed AIs asked to summarize (screenshot)*
 
 Information passes through the brain like clouds crossing the eye, gone by the next day. This seemingly efficient shortcut is in fact the greatest waste of life. Better to settle down and genuinely read it once, do it once.
 
@@ -1189,7 +1201,8 @@ In this era, the real problem has never been how to acquire massive amounts of i
 
 The Chinese AI influencer Zhang Zhala holds this view — he tells us to go to YouTube, go to Twitter, follow the key people, read first-hand information (builder, not influencer)【20】. My "do subtraction" argument comes from the blogger Zhang Siji, who also says his content comes from the long podcasts and tweets of the very best AI practitioners, people like Andrej Karpathy, plus classic books. His information sources are actually very few, but he reads every one of them carefully.【21】
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-06.webp)
+![A Xiaohongshu video by 张司机在路上 — how to get fresher information](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-06.webp)
+*A Xiaohongshu video by 张司机在路上 — how to get fresher information*
 
 > The Emperor asked Wei Zheng — "What makes a sovereign enlightened, and what makes him benighted?"
 > 
@@ -1233,7 +1246,8 @@ So said Richard Feynman, and the Feynman learning technique is known to all.
 
 The same idea comes from zara and Zhang Siji — both believe you need to build a mechanism that lets you keep producing output, or, to put it another way, to learn by expressing.【25】
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-07.webp)
+![From the PROLIFIC BUILDING conversation — build a mechanism that keeps you creating](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-07.webp)
+*From the PROLIFIC BUILDING conversation — build a mechanism that keeps you creating*
 
 AI is exploding right now. I believe everyone's starting point will not differ by much, but there is definitely a gap between thinking and application. So I think I need to record what I want to say and the process of my learning.
 
@@ -1241,11 +1255,13 @@ As for how to actually do it, I have tried many methods along the way. Especiall
 
 My practice nowadays is this — use AI for the preliminary sorting and linking of material, stringing together the notes, articles, and ideas scattered across my bookmarks and knowledge base, tying the fragments of information floating between me and AI into a line through writing. Like Scheherazade, who married the king of her own will to save innocent women and, one story a night, wove together the Arabian Nights (《一千零一夜》)【27】 — I too string together the information and material I have gathered, and produce an essay like this one.
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-08.webp)
+![My Obsidian graph view — AI helping thread scattered notes together](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-08.webp)
+*My Obsidian graph view — AI helping thread scattered notes together*
 
 I choose to publish these essays on platforms like Xiaohongshu (RED) or WeChat official accounts — on social media, in other words. It feels to me like Forrest Gump (《阿甘正传》)【28】 — Gump rattling off the story of his whole life without a care for who was around him, on that bench, while the people beside him kept changing. Some stopped to listen, some walked away, and now and then someone would nod or ask a question.
 
-![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-09.webp)
+![The bench scene from Forrest Gump — telling your life story to whoever sits down](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-09.webp)
+*The bench scene from Forrest Gump — telling your life story to whoever sits down*
 
 If you have read this far, thank you very much! Whether it is me or Gump, I think any of this gives me a little feedback. Whatever the outside world makes of it, the act of expression itself gives me a kind of force to push back against the void.
 
