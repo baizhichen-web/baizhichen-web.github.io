@@ -6,31 +6,31 @@
 
 ## 页面
 
-- [简历](/resume.md)：教育、实习、项目经历、获奖、课程成绩、自我评价、联系（证明材料随各节附出）
-- [首页（作品集总览）](/index.md)：海报墙项目一览
+- [简历](https://baizhichen-web.github.io/resume.md)：教育、实习、项目经历、获奖、课程成绩、自我评价、联系（证明材料随各节附出）
+- [首页（作品集总览）](https://baizhichen-web.github.io/index.md)：海报墙项目一览
 
 ## 文章
 
-- [个人自传](/writing/geren-zizhuan.md)（2026.09）：从家里的小卖部写起，回望二十二年的观察、设计与成长，把自己当作第一个设计对象。
-- [Personal Autobiography](/writing/geren-zizhuan.en.md) (2026.09) — “I am about to do a difficult work, one that has no precedent and will have no imitator. I mean to lay bare the true face of a man before the world, and that man is myself.” — Rousseau · English
-- [开始写作是我和AI的协作方案](/writing/kaishi-xiezuo.md)（2026.07）：从一句『等我问问 AI』说起，谈 AI 时代的知识内化——做减法、兼听则明、用表达来学习。
-- [Starting to Write Is My Plan for Collaborating with AI](/writing/kaishi-xiezuo.en.md) (2026.07) — I write the way Forrest Gump told his story — talking on about his whole life without a care for who was around him, on that bench, while the people beside him kept changing. Some stopped to listen, some walked away, and now and then someone would nod or ask a question. · English
-- [我们是很愿意协助、帮助任何人，甚至我们的竞争对手](/writing/liangwenfeng.md)（2026.07）：并读 Dean Ball、阿莫迪与梁文锋三场表态，看见三种 AI 世界观，落回梁文锋的『不争』。
-- [We are very willing to help and assist anyone, even our competitors](/writing/liangwenfeng.en.md) (2026.07) — Three statements, three worldviews — from Dean W. Ball and Dario Amodei to Liang Wenfeng · English
-- [圆周旅迹在顺德的三天两夜](/writing/shunde-lvxing.md)（2026.07）：带舍友用圆周旅迹走完顺德三天两夜，把一次旅行当产品拆解——发心、定位、不可能三角与三个错位。
-- [Three Days and Two Nights in Shunde with 圆周旅迹 (Zhouyuan Lüji)](/writing/shunde-lvxing.en.md) (2026.07) — A product I like, and my trip. · English
+- [个人自传](https://baizhichen-web.github.io/writing/geren-zizhuan.md)（2026.09）：从家里的小卖部写起，回望二十二年的观察、设计与成长，把自己当作第一个设计对象。
+- [Personal Autobiography](https://baizhichen-web.github.io/writing/geren-zizhuan.en.md) (2026.09) — “I am about to do a difficult work, one that has no precedent and will have no imitator. I mean to lay bare the true face of a man before the world, and that man is myself.” — Rousseau · English
+- [开始写作是我和AI的协作方案](https://baizhichen-web.github.io/writing/kaishi-xiezuo.md)（2026.07）：从一句『等我问问 AI』说起，谈 AI 时代的知识内化——做减法、兼听则明、用表达来学习。
+- [Starting to Write Is My Plan for Collaborating with AI](https://baizhichen-web.github.io/writing/kaishi-xiezuo.en.md) (2026.07) — I write the way Forrest Gump told his story — talking on about his whole life without a care for who was around him, on that bench, while the people beside him kept changing. Some stopped to listen, some walked away, and now and then someone would nod or ask a question. · English
+- [我们是很愿意协助、帮助任何人，甚至我们的竞争对手](https://baizhichen-web.github.io/writing/liangwenfeng.md)（2026.07）：并读 Dean Ball、阿莫迪与梁文锋三场表态，看见三种 AI 世界观，落回梁文锋的『不争』。
+- [We are very willing to help and assist anyone, even our competitors](https://baizhichen-web.github.io/writing/liangwenfeng.en.md) (2026.07) — Three statements, three worldviews — from Dean W. Ball and Dario Amodei to Liang Wenfeng · English
+- [圆周旅迹在顺德的三天两夜](https://baizhichen-web.github.io/writing/shunde-lvxing.md)（2026.07）：带舍友用圆周旅迹走完顺德三天两夜，把一次旅行当产品拆解——发心、定位、不可能三角与三个错位。
+- [Three Days and Two Nights in Shunde with 圆周旅迹 (Zhouyuan Lüji)](https://baizhichen-web.github.io/writing/shunde-lvxing.en.md) (2026.07) — A product I like, and my trip. · English
 
 ## 项目
 
-- [如切如磋，如琢如磨](/projects/ceramic-cmf.md)：陶瓷 CMF 与 AI 工具结合的实验创作——从釉料与材质实验走向可验证的设计决策。条目建设中。
-- [儿童 AI 折纸打印机](/projects/zhezhi-printer.md)：儿童 AI 折纸热敏打印机——画稿即折纸的桌面设备，毕业设计的完整决策与验证记录。条目建设中。
+- [如切如磋，如琢如磨](https://baizhichen-web.github.io/projects/ceramic-cmf.md)：陶瓷 CMF 与 AI 工具结合的实验创作——从釉料与材质实验走向可验证的设计决策。条目建设中。
+- [儿童 AI 折纸打印机](https://baizhichen-web.github.io/projects/zhezhi-printer.md)：儿童 AI 折纸热敏打印机——画稿即折纸的桌面设备，毕业设计的完整决策与验证记录。条目建设中。
 
 
 ---
 
 # 陈柏志 · 白纸上（首页）
 
-> 来源：[/index.md](/index.md)（本站首页的 Markdown 副本）
+> 来源：[https://baizhichen-web.github.io/index.md](https://baizhichen-web.github.io/index.md)（本站首页的 Markdown 副本）
 
 我喜爱阅读、运动和创造，致力在交叉领域中探索新的可能
 
@@ -41,8 +41,8 @@
 
 ## 项目详情页（内容系统）
 
-- [如切如磋，如琢如磨](/projects/ceramic-cmf.md)
-- [儿童 AI 折纸打印机](/projects/zhezhi-printer.md) — 儿童 AI 折纸热敏打印机——画稿即折纸的桌面设备，毕业设计的完整决策与验证记录。条目建设中。
+- [如切如磋，如琢如磨](https://baizhichen-web.github.io/projects/ceramic-cmf.md)
+- [儿童 AI 折纸打印机](https://baizhichen-web.github.io/projects/zhezhi-printer.md) — 儿童 AI 折纸热敏打印机——画稿即折纸的桌面设备，毕业设计的完整决策与验证记录。条目建设中。
 
 
 
@@ -52,7 +52,7 @@
 
 陈柏志 — 设计专硕研究生在读
 
-> 来源：[/resume.md](/resume.md)（本站页面 "简历" 的 Markdown 副本）
+> 来源：[https://baizhichen-web.github.io/resume.md](https://baizhichen-web.github.io/resume.md)（本站页面 "简历" 的 Markdown 副本）
 
 政治面貌：中共党员　外语：CET6-478
 
@@ -69,7 +69,7 @@
   - 推免至北京师范大学未来设计学院
   - 校区：厦门 · 福建
 
-GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 563 次贡献 / 64 个活跃日（2025-10-05 → 2026-10-07）
+GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 590 次贡献 / 66 个活跃日（2025-10-05 → 2026-10-10）
 
 ## 关于
 
@@ -140,7 +140,7 @@ DOI: 10.1177/14771535261455253　（第三作者）
 
 协助辅导员与班主任开展新生入学适应、班级建设与学业引导工作。参与迎新接待、入学教育与日常管理，组织破冰交流、主题班会与专业认知活动，对接新生日常事务与答疑，协助评奖评优、材料整理与信息统计，关注新生心理与适应情况，搭建新生与院系之间的沟通桥梁。
 
-- SCI 收录检索证明（SCI PROOF · PDF）：/docs/sci-proof.pdf
+- SCI 收录检索证明（SCI PROOF · PDF）：https://baizhichen-web.github.io/docs/sci-proof.pdf
 
 ## 获奖
 
@@ -199,7 +199,7 @@ DOI: 10.1177/14771535261455253　（第三作者）
 - 设计表现技法Ⅰ：92
 - 设计素描Ⅰ：91
 
-- 本科成绩单（TRANSCRIPT · PDF）：/docs/transcript.pdf
+- 本科成绩单（TRANSCRIPT · PDF）：https://baizhichen-web.github.io/docs/transcript.pdf
 
 ## 自我评价
 
@@ -224,8 +224,8 @@ DOI: 10.1177/14771535261455253　（第三作者）
 - 邮箱：202622089004@mail.bnu.edu.cn
 - 小红书：https://www.xiaohongshu.com/user/profile/5d554004000000001200b5d5
 - GitHub：https://github.com/baizhichen-web
-- 简历 PDF（中文）（RESUME · PDF）：/docs/resume.pdf
-- 作品集（10 个项目）（PORTFOLIO · PDF）：/docs/portfolio.pdf
+- 简历 PDF（中文）（RESUME · PDF）：https://baizhichen-web.github.io/docs/resume.pdf
+- 作品集（10 个项目）（PORTFOLIO · PDF）：https://baizhichen-web.github.io/docs/portfolio.pdf
 
 
 
@@ -233,11 +233,11 @@ DOI: 10.1177/14771535261455253　（第三作者）
 
 # 个人自传
 
-> 来源：[/writing/geren-zizhuan.md](/writing/geren-zizhuan.md)（本站文章的 Markdown 副本）
+> 来源：[https://baizhichen-web.github.io/writing/geren-zizhuan.md](https://baizhichen-web.github.io/writing/geren-zizhuan.md)（本站文章的 Markdown 副本）
 
 时间：2026.09 · 体裁：自传
 
-![个人自传——封面取自「自己」所在局部](/media/writing/geren-zizhuan/calli.webp)
+![个人自传——封面取自「自己」所在局部](https://baizhichen-web.github.io/media/writing/geren-zizhuan/calli.webp)
 
 **摘要** — 从家里的小卖部写起，回望二十二年的观察、设计与成长，把自己当作第一个设计对象。
 
@@ -255,10 +255,10 @@ DOI: 10.1177/14771535261455253　（第三作者）
 
 这就像一方小小的田野天地，像是一只牛奶盒正好安放在栅栏顶端的方框上，无意识设计在这个小店里面涌现，我也无意识地练习了观察这些无意识的举动、微小而真实的痕迹。
 
-![小店的现如今样子](/media/zizhuan/01-xiaodian.webp)
+![小店的现如今样子](https://baizhichen-web.github.io/media/zizhuan/01-xiaodian.webp)
 *小店的现如今样子*
 
-![《深泽直人》和《设计的生态学》书中分享的"潜意识行为"](/media/zizhuan/02-shenze.webp)
+![《深泽直人》和《设计的生态学》书中分享的"潜意识行为"](https://baizhichen-web.github.io/media/zizhuan/02-shenze.webp)
 *《深泽直人》和《设计的生态学》书中分享的"潜意识行为"*
 
 就是这样一间小店记录着一个孩子的成长，一个家庭的成长，一条街道的成长，一个社区的成长。
@@ -311,11 +311,11 @@ DOI: 10.1177/14771535261455253　（第三作者）
 
 # 开始写作是我和AI的协作方案
 
-> 来源：[/writing/kaishi-xiezuo.md](/writing/kaishi-xiezuo.md)（本站文章的 Markdown 副本）
+> 来源：[https://baizhichen-web.github.io/writing/kaishi-xiezuo.md](https://baizhichen-web.github.io/writing/kaishi-xiezuo.md)（本站文章的 Markdown 副本）
 
 时间：2026.07 · 体裁：随笔
 
-![开始写作是我和AI的协作方案——封面取自作品局部](/media/writing/kaishi-xiezuo/calli-zoom.webp)
+![开始写作是我和AI的协作方案——封面取自作品局部](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/calli-zoom.webp)
 
 **摘要** — 从一句『等我问问 AI』说起，谈 AI 时代的知识内化——做减法、兼听则明、用表达来学习。
 
@@ -325,13 +325,13 @@ DOI: 10.1177/14771535261455253　（第三作者）
 
 恰好那段时间我读到一篇博客，标题正叫"Stop Telling Me To Ask An LLM"【1】。
 
-![](/media/writing/kaishi-xiezuo/fig-01.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-01.webp)
 
 作者从一个亲身经历讲起。他有一个棘手的问题，没有行业共识，多方研究后依然无解。于是，他特意约了一位有30年经验、经历过决策失误的资深人士，想听听从惨痛教训中沉淀出的、搜索引擎给不了的判断。结果对方的回答是："Honestly? Ask Claude."
 
 作者提到过去的LMGTFY【2】链接发给别人是讽刺伸手党不愿做基础检索，现在的“问AI”更像是发你一份美食榜单，却拒绝告诉你“我个人觉得哪里不对”。
 
-![时代发展，已经出现chatGPT版本的LMGTFY（或应该叫LMAITFY） https://lmgtfy2.com/s/eBxY3n（GIF链接，大家可以去试试）](/media/writing/kaishi-xiezuo/fig-02.webp)
+![时代发展，已经出现chatGPT版本的LMGTFY（或应该叫LMAITFY） https://lmgtfy2.com/s/eBxY3n（GIF链接，大家可以去试试）](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-02.webp)
 *时代发展，已经出现chatGPT版本的LMGTFY（或应该叫LMAITFY） https://lmgtfy2.com/s/eBxY3n（GIF链接，大家可以去试试）*
 
 是的，所以在美食榜单方面，我是一个比较好的在地导游，所以我都会跟来我家乡玩的伙伴们推荐从小吃到大的在地美食。他们寻求你意见，实际上是寻求你的经验，大家在意的绝对是希望找到最有特色的美食，至少是代表了我希望他们吃的。
@@ -356,7 +356,7 @@ DOI: 10.1177/14771535261455253　（第三作者）
 
 fast.ai 的创始人 Jeremy Howard 最近和 Chris Lattner 做了一次对谈，Jeremy 说，他看到的是开发者放弃了一切通往理解、精通和持久软件的实践。CEO 们吹嘘团队日产万行 AI 代码，工程师也骄傲地自称自己搞的是"vibe-coding"。说的是 Vibe Coding 扩散到了整个社会，老人小孩都在用，大家不求甚解，摸着AI的脾气过去即可。【7】
 
-![](/media/writing/kaishi-xiezuo/fig-03.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-03.webp)
 
 我们在奔向一个怎样的未来？
 
@@ -370,7 +370,7 @@ fast.ai 的创始人 Jeremy Howard 最近和 Chris Lattner 做了一次对谈，
 
 把每个小孩按水平分配到一个班级里，命以少年班、火箭班、创新班、提高班，这只能削足适履地损坏了每个孩子的个性和探索热情。就像上海科技馆馆长倪闽景在一席少年上的演讲讲到——初二物理课教能量守恒定律，最聪明的孩子一看就懂。一个"最笨"的孩子举手问："能量既然是这样，为什么会有能源危机？"而让最聪明的同学来回答——老师，我也不知道。【10】
 
-![](/media/writing/kaishi-xiezuo/fig-04.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-04.webp)
 
 孔子的弟子三千，贤者七十二，子路好勇，子贡善辩，颜回安贫，冉求多才，夫子因材施教，不曾将他们捏成一个模子【11】。教育不是为了打造很多个一模一样的天才，创造并滋养一片让创新自然涌现的沃土。创新不怕愚蠢，就怕相同，AI的发展也如此。
 
@@ -402,7 +402,7 @@ AI 训练追求均值，AI 的输出又回流到训练数据，每一代都比�
 
 我经常能看到在某些视频下面有评论在@各种各样的ai来做总结，考虑完播率的视频的博主或许心情复杂——「得来终觉浅，绝知此事要躬行」，更何况未经阅读，收到的是别人视频的二手知识，而自己更要将这样的二手知识转换成AI摘要的三手知识。
 
-![](/media/writing/kaishi-xiezuo/fig-05.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-05.webp)
 
 信息在大脑中如过眼云烟，隔日即逝。这种看似高效的捷径，恰恰是对生命最大的虚掷，不如潜下心来，真切地读一遍、做一遍。
 
@@ -428,7 +428,7 @@ AI 总结的理应被称为显性知识，但是出于AI能力的不足、可能
 
 国内AI大V张咋啦怀着这样的看法：告诉我们去youtube、去推特，看关键的⼈，看⼀⼿信息（Builder, not influencer）【20】；我这段「做减法」的观点来自于的博主张司机，他也说： 他的内容来源于 Andrej Karpathy 这些最厉害的 AI 从业者的长播客和推文，再加上经典的书籍，他的信息来源其实很少，但是每一个他都会认真的看。【21】
 
-![](/media/writing/kaishi-xiezuo/fig-06.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-06.webp)
 
 > 上问魏征曰："人主何为而明，何为而暗？"   对曰："**兼听则明，偏信则暗。**昔尧清问下民，故有苗之恶得以上闻；舜明四目，达四聪，故共、鲧、驩兜不能蔽也。秦二世偏信赵高，以成望夷之祸；梁武帝偏信朱异，以取台城之辱；隋炀帝偏信虞世基，以致彭城阁之变。是故人君兼听广纳，则贵臣不得拥蔽，而下情得以上通也。"   上曰："善！"【22】
 > —— 《贞观政要·卷一·君道》（亦见《资治通鉴·唐纪八》）
@@ -468,7 +468,7 @@ AI 总结的理应被称为显性知识，但是出于AI能力的不足、可能
 
 同样来自zara和张司机，他们都认为需要建⽴⼀个能让⾃⼰持续输出的机制，或者说用表达来学习。【25】
 
-![](/media/writing/kaishi-xiezuo/fig-07.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-07.webp)
 
 AI正在大爆发，我相信每个人的起点都不会差距很大，但是思考和应用之间绝对有gap，所以我认为我需要把自己想说的内容、学习的过程记录下来。
 
@@ -476,11 +476,11 @@ AI正在大爆发，我相信每个人的起点都不会差距很大，但是思
 
 我如今的实践是：用 AI 做初步的素材整理和关联——把散落在收藏夹和知识库中的笔记、文章、想法串起来——把漂浮在我和AI之间的信息碎片通过写作串联。像是山鲁佐德为拯救无辜的女子，自愿嫁给国王，一夜一个故事，串成了「一千零一夜」【27】，我也把我收集的信息和素材串联，产出这样一篇文章。
 
-![](/media/writing/kaishi-xiezuo/fig-08.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-08.webp)
 
 我会选择在小红书或者微信公众号这样的平台上，或者说社交媒体上来发布这些文章，我觉得就像「阿甘正传」【28】，阿甘旁若无人的讲他一辈子的故事，在那个长凳上，旁边人却一直在换，有人驻足，有人离去，偶尔有人点点头，或者问上一句。
 
-![](/media/writing/kaishi-xiezuo/fig-09.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-09.webp)
 
 如果你看到这里，那非常感谢！不论是我还是阿甘，我认为这都会给我一点反馈，无论外界反馈如何，这种表达本身，便给了我对抗虚无的力道。
 
@@ -639,11 +639,11 @@ Andrej Karpathy推广，在个人知识管理（PKM）与人工智能领域流�
 
 # 我们是很愿意协助、帮助任何人，甚至我们的竞争对手
 
-> 来源：[/writing/liangwenfeng.md](/writing/liangwenfeng.md)（本站文章的 Markdown 副本）
+> 来源：[https://baizhichen-web.github.io/writing/liangwenfeng.md](https://baizhichen-web.github.io/writing/liangwenfeng.md)（本站文章的 Markdown 副本）
 
 时间：2026.07 · 体裁：评论
 
-![我们是很愿意协助、帮助任何人，甚至我们的竞争对手——封面取自「不争」所在局部](/media/writing/liangwenfeng/calli.webp)
+![我们是很愿意协助、帮助任何人，甚至我们的竞争对手——封面取自「不争」所在局部](https://baizhichen-web.github.io/media/writing/liangwenfeng/calli.webp)
 
 **摘要** — 并读 Dean Ball、阿莫迪与梁文锋三场表态，看见三种 AI 世界观，落回梁文锋的『不争』。
 
@@ -723,11 +723,11 @@ Andrej Karpathy推广，在个人知识管理（PKM）与人工智能领域流�
 
 # 圆周旅迹在顺德的三天两夜
 
-> 来源：[/writing/shunde-lvxing.md](/writing/shunde-lvxing.md)（本站文章的 Markdown 副本）
+> 来源：[https://baizhichen-web.github.io/writing/shunde-lvxing.md](https://baizhichen-web.github.io/writing/shunde-lvxing.md)（本站文章的 Markdown 副本）
 
 时间：2026.07 · 体裁：游记
 
-![圆周旅迹在顺德的三天两夜——封面取自「旅迹」所在局部](/media/writing/shunde-lvxing/calli.webp)
+![圆周旅迹在顺德的三天两夜——封面取自「旅迹」所在局部](https://baizhichen-web.github.io/media/writing/shunde-lvxing/calli.webp)
 
 **摘要** — 带舍友用圆周旅迹走完顺德三天两夜，把一次旅行当产品拆解——发心、定位、不可能三角与三个错位。
 
@@ -752,10 +752,10 @@ Andrej Karpathy推广，在个人知识管理（PKM）与人工智能领域流�
 
 但实话说，更多打动我的还有这个产品的UI设计。以及他在小红书上有意思的营销策略。
 
-![该产品的UI设计（来源：圆周旅迹小红书）](/media/writing/shunde-lvxing/fig-01.webp)
+![该产品的UI设计（来源：圆周旅迹小红书）](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-01.webp)
 *该产品的UI设计（来源：圆周旅迹小红书）*
 
-![有趣的功能策划与营销（来源：圆周旅迹小红书）](/media/writing/shunde-lvxing/fig-02.webp)
+![有趣的功能策划与营销（来源：圆周旅迹小红书）](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-02.webp)
 *有趣的功能策划与营销（来源：圆周旅迹小红书）*
 
 ### 定位第二
@@ -904,7 +904,7 @@ AI旅行规划最大的卖点是「智能」推荐。但实际体验往往让人
 
 （可以借鉴高德，以三条横杠并列来表示可以拖动调整）
 
-![](/media/writing/shunde-lvxing/fig-03.webp)
+![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-03.webp)
 
 ## 四、顺德三天两夜
 
@@ -926,11 +926,11 @@ AI旅行规划最大的卖点是「智能」推荐。但实际体验往往让人
 
 《浮生六记》里，沈复写芸娘生动，正因为那些细碎的日常，后来读来才觉得真实。旅行或许也是这样。规划回答的是「我要去哪」，记录回答的却是「我曾经怎样到过那里」。
 
-![](/media/writing/shunde-lvxing/fig-04.webp)
+![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-04.webp)
 
-![](/media/writing/shunde-lvxing/fig-05.webp)
+![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-05.webp)
 
-![](/media/writing/shunde-lvxing/fig-06.webp)
+![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-06.webp)
 
 ## 五、我的期待
 
@@ -992,11 +992,11 @@ AI旅行规划最大的卖点是「智能」推荐。但实际体验往往让人
 
 # Personal Autobiography
 
-> 来源：[/writing/geren-zizhuan.en.md](/writing/geren-zizhuan.en.md)（本站文章的 Markdown 副本 · English edition）
+> 来源：[https://baizhichen-web.github.io/writing/geren-zizhuan.en.md](https://baizhichen-web.github.io/writing/geren-zizhuan.en.md)（本站文章的 Markdown 副本 · English edition）
 
 Date：2026.09 · Form：Autobiography
 
-![Personal Autobiography——封面取自「自己」所在局部](/media/writing/geren-zizhuan/calli.webp)
+![Personal Autobiography——封面取自「自己」所在局部](https://baizhichen-web.github.io/media/writing/geren-zizhuan/calli.webp)
 
 **Summary** — 从家里的小卖部写起，回望二十二年的观察、设计与成长，把自己当作第一个设计对象。
 
@@ -1014,10 +1014,10 @@ I grew up in just such a shop. I did not leave until I was eighteen, though ever
 
 It was like a small field of its own, like a milk carton resting exactly in the square frame on top of a fence. Unconscious design surfaced in this little shop, and I unknowingly practiced observing these unconscious acts, these small and real traces.
 
-![The shop as it looks today](/media/zizhuan/01-xiaodian.webp)
+![The shop as it looks today](https://baizhichen-web.github.io/media/zizhuan/01-xiaodian.webp)
 *The shop as it looks today*
 
-![The “subconscious behavior” shared in the books 《深泽直人》(Naoto Fukasawa) and 《设计的生态学》(The Ecology of Design)](/media/zizhuan/02-shenze.webp)
+![The “subconscious behavior” shared in the books 《深泽直人》(Naoto Fukasawa) and 《设计的生态学》(The Ecology of Design)](https://baizhichen-web.github.io/media/zizhuan/02-shenze.webp)
 *The “subconscious behavior” shared in the books 《深泽直人》(Naoto Fukasawa) and 《设计的生态学》(The Ecology of Design)*
 
 It was just such a shop that recorded the growth of a child, of a family, of a street, of a community.
@@ -1070,11 +1070,11 @@ The word limit (there was no room for many design rules precise to data and item
 
 # Starting to Write Is My Plan for Collaborating with AI
 
-> 来源：[/writing/kaishi-xiezuo.en.md](/writing/kaishi-xiezuo.en.md)（本站文章的 Markdown 副本 · English edition）
+> 来源：[https://baizhichen-web.github.io/writing/kaishi-xiezuo.en.md](https://baizhichen-web.github.io/writing/kaishi-xiezuo.en.md)（本站文章的 Markdown 副本 · English edition）
 
 Date：2026.07 · Form：Essay
 
-![Starting to Write Is My Plan for Collaborating with AI——封面取自作品局部](/media/writing/kaishi-xiezuo/calli-zoom.webp)
+![Starting to Write Is My Plan for Collaborating with AI——封面取自作品局部](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/calli-zoom.webp)
 
 **Summary** — 从一句『等我问问 AI』说起，谈 AI 时代的知识内化——做减法、兼听则明、用表达来学习。
 
@@ -1084,13 +1084,13 @@ I was arguing with a friend about some question, right in the thick of it, when 
 
 Right around then I happened to read a blog post titled, of all things, "Stop Telling Me To Ask An LLM"【1】.
 
-![](/media/writing/kaishi-xiezuo/fig-01.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-01.webp)
 
 The author opens with a story from his own life. He had a thorny question, no industry consensus, and even after working through a pile of research it stayed unsolved. So he made a point of meeting a veteran with thirty years of experience, someone who had lived through bad calls, hoping for the kind of judgment that only settles out of painful lessons — the kind a search engine cannot give you. The man's answer was — "Honestly? Ask Claude."
 
 The author recalls how LMGTFY【2】 links used to be a jab at people who could not be bothered to run a basic search. Today's "just ask AI" feels more like being handed a food ranking while the other person refuses to tell you "here is what I personally think is off about it."
 
-![The times have moved on, and there is already a ChatGPT edition of LMGTFY (or perhaps it should be called LMAITFY) — https://lmgtfy2.com/s/eBxY3n (a GIF link, feel free to try it)](/media/writing/kaishi-xiezuo/fig-02.webp)
+![The times have moved on, and there is already a ChatGPT edition of LMGTFY (or perhaps it should be called LMAITFY) — https://lmgtfy2.com/s/eBxY3n (a GIF link, feel free to try it)](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-02.webp)
 *The times have moved on, and there is already a ChatGPT edition of LMGTFY (or perhaps it should be called LMAITFY) — https://lmgtfy2.com/s/eBxY3n (a GIF link, feel free to try it)*
 
 Exactly. When it comes to food rankings, I am a decent local guide — whenever friends come to visit my hometown I steer them to the local eats I grew up on. When people ask for your opinion, what they are really after is your experience. What everyone cares about is finding the most distinctive food, or at least food that stands for what I hope they will taste.
@@ -1115,7 +1115,7 @@ With every wave, one human ability gets stamped as inefficient and handed over t
 
 fast.ai founder Jeremy Howard recently sat down with Chris Lattner for a conversation. Jeremy says what he sees is developers abandoning every practice that leads to understanding, mastery, and durable software. CEOs boast about teams shipping ten thousand lines of AI-generated code a day; engineers proudly call what they do "vibe-coding." And Vibe Coding has spread across society at large — the old and the young are all using it, nobody bothering to understand it deeply, just feeling out AI's temper and getting by.【7】
 
-![](/media/writing/kaishi-xiezuo/fig-03.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-03.webp)
 
 What kind of future are we running toward?
 
@@ -1129,7 +1129,7 @@ The same goes for education — of course we want to see more diversity in our c
 
 Sorting every child into a class by level — the gifted class, the rocket class, the innovation class, the remedial class — can only maim each child's individuality and appetite for exploration, cutting the feet to fit the shoes. Ni Minjing, director of the Shanghai Science and Technology Museum, told a story in his Yixi Youth talk. In an eighth-grade physics class on the conservation of energy, the smartest kid gets it at a glance. Then the "dumbest" kid raises his hand and asks — if energy works like that, why is there an energy crisis? And the smartest kid is asked to answer. Teacher, I have no idea either.【10】
 
-![](/media/writing/kaishi-xiezuo/fig-04.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-04.webp)
 
 Confucius had three thousand disciples, seventy-two of them virtuous. Zilu was brave, Zigong eloquent, Yan Hui content in poverty, Ran Qiu multitalented. The Master taught each according to his nature, never pressing them into a single mold【11】. Education is not about stamping out many identical geniuses; it is about creating and nourishing soil where innovation can emerge on its own. Innovation is not afraid of foolishness — it is afraid of sameness. The development of AI is no different.
 
@@ -1161,7 +1161,7 @@ First — you do not need AI to help you see more. What you need is to do subtra
 
 I often see comments under videos @-ing all sorts of AIs to summarize them. The video creator, who has to worry about completion rate, probably has complicated feelings — "what you get from others always feels shallow; to truly know a thing, you must do it yourself." And that is before you consider — without reading it yourself, what you receive is secondhand knowledge from someone else's video, which you then turn into thirdhand knowledge through an AI summary.
 
-![](/media/writing/kaishi-xiezuo/fig-05.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-05.webp)
 
 Information passes through the brain like clouds crossing the eye, gone by the next day. This seemingly efficient shortcut is in fact the greatest waste of life. Better to settle down and genuinely read it once, do it once.
 
@@ -1189,7 +1189,7 @@ In this era, the real problem has never been how to acquire massive amounts of i
 
 The Chinese AI influencer Zhang Zhala holds this view — he tells us to go to YouTube, go to Twitter, follow the key people, read first-hand information (builder, not influencer)【20】. My "do subtraction" argument comes from the blogger Zhang Siji, who also says his content comes from the long podcasts and tweets of the very best AI practitioners, people like Andrej Karpathy, plus classic books. His information sources are actually very few, but he reads every one of them carefully.【21】
 
-![](/media/writing/kaishi-xiezuo/fig-06.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-06.webp)
 
 > The Emperor asked Wei Zheng — "What makes a sovereign enlightened, and what makes him benighted?"
 > 
@@ -1233,7 +1233,7 @@ So said Richard Feynman, and the Feynman learning technique is known to all.
 
 The same idea comes from zara and Zhang Siji — both believe you need to build a mechanism that lets you keep producing output, or, to put it another way, to learn by expressing.【25】
 
-![](/media/writing/kaishi-xiezuo/fig-07.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-07.webp)
 
 AI is exploding right now. I believe everyone's starting point will not differ by much, but there is definitely a gap between thinking and application. So I think I need to record what I want to say and the process of my learning.
 
@@ -1241,11 +1241,11 @@ As for how to actually do it, I have tried many methods along the way. Especiall
 
 My practice nowadays is this — use AI for the preliminary sorting and linking of material, stringing together the notes, articles, and ideas scattered across my bookmarks and knowledge base, tying the fragments of information floating between me and AI into a line through writing. Like Scheherazade, who married the king of her own will to save innocent women and, one story a night, wove together the Arabian Nights (《一千零一夜》)【27】 — I too string together the information and material I have gathered, and produce an essay like this one.
 
-![](/media/writing/kaishi-xiezuo/fig-08.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-08.webp)
 
 I choose to publish these essays on platforms like Xiaohongshu (RED) or WeChat official accounts — on social media, in other words. It feels to me like Forrest Gump (《阿甘正传》)【28】 — Gump rattling off the story of his whole life without a care for who was around him, on that bench, while the people beside him kept changing. Some stopped to listen, some walked away, and now and then someone would nod or ask a question.
 
-![](/media/writing/kaishi-xiezuo/fig-09.webp)
+![](https://baizhichen-web.github.io/media/writing/kaishi-xiezuo/fig-09.webp)
 
 If you have read this far, thank you very much! Whether it is me or Gump, I think any of this gives me a little feedback. Whatever the outside world makes of it, the act of expression itself gives me a kind of force to push back against the void.
 
@@ -1404,11 +1404,11 @@ This idea articulates a classical philosophy of the relationship between humans 
 
 # We are very willing to help and assist anyone, even our competitors
 
-> 来源：[/writing/liangwenfeng.en.md](/writing/liangwenfeng.en.md)（本站文章的 Markdown 副本 · English edition）
+> 来源：[https://baizhichen-web.github.io/writing/liangwenfeng.en.md](https://baizhichen-web.github.io/writing/liangwenfeng.en.md)（本站文章的 Markdown 副本 · English edition）
 
 Date：2026.07 · Form：Commentary
 
-![We are very willing to help and assist anyone, even our competitors——封面取自「不争」所在局部](/media/writing/liangwenfeng/calli.webp)
+![We are very willing to help and assist anyone, even our competitors——封面取自「不争」所在局部](https://baizhichen-web.github.io/media/writing/liangwenfeng/calli.webp)
 
 **Summary** — 并读 Dean Ball、阿莫迪与梁文锋三场表态，看见三种 AI 世界观，落回梁文锋的『不争』。
 
@@ -1488,11 +1488,11 @@ I share in the glory. China's technologists — **seek truth from facts, open an
 
 # Three Days and Two Nights in Shunde with 圆周旅迹 (Zhouyuan Lüji)
 
-> 来源：[/writing/shunde-lvxing.en.md](/writing/shunde-lvxing.en.md)（本站文章的 Markdown 副本 · English edition）
+> 来源：[https://baizhichen-web.github.io/writing/shunde-lvxing.en.md](https://baizhichen-web.github.io/writing/shunde-lvxing.en.md)（本站文章的 Markdown 副本 · English edition）
 
 Date：2026.07 · Form：Travel Notes
 
-![Three Days and Two Nights in Shunde with 圆周旅迹 (Zhouyuan Lüji)——封面取自「旅迹」所在局部](/media/writing/shunde-lvxing/calli.webp)
+![Three Days and Two Nights in Shunde with 圆周旅迹 (Zhouyuan Lüji)——封面取自「旅迹」所在局部](https://baizhichen-web.github.io/media/writing/shunde-lvxing/calli.webp)
 
 **Summary** — 带舍友用圆周旅迹走完顺德三天两夜，把一次旅行当产品拆解——发心、定位、不可能三角与三个错位。
 
@@ -1517,10 +1517,10 @@ As someone interested in product design, I was moved by 圆周旅迹's founding 
 
 But honestly, what moved me more was the product's UI design. And its rather clever marketing on Xiaohongshu.
 
-![The app's UI design (from 圆周旅迹 on Xiaohongshu)](/media/writing/shunde-lvxing/fig-01.webp)
+![The app's UI design (from 圆周旅迹 on Xiaohongshu)](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-01.webp)
 *The app's UI design (from 圆周旅迹 on Xiaohongshu)*
 
-![Playful feature planning and marketing (from 圆周旅迹 on Xiaohongshu)](/media/writing/shunde-lvxing/fig-02.webp)
+![Playful feature planning and marketing (from 圆周旅迹 on Xiaohongshu)](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-02.webp)
 *Playful feature planning and marketing (from 圆周旅迹 on Xiaohongshu)*
 
 ### Second — Positioning
@@ -1669,7 +1669,7 @@ If a high-frequency function has to be discovered by accident, then in experienc
 
 (Amap could be the reference here — three parallel bars to signal that something can be dragged.)
 
-![](/media/writing/shunde-lvxing/fig-03.webp)
+![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-03.webp)
 
 ## IV. Three Days and Two Nights in Shunde
 
@@ -1691,11 +1691,11 @@ Later, looking back at the map, what had been separate places were joined by the
 
 In Six Chapters of a Floating Life, Shen Fu's portrait of Yunniang feels so vivid precisely because of those small, fragmentary details; reading them later is what makes them feel true. Travel is perhaps the same. Planning answers "where am I going"; recording answers "how did I once get there."
 
-![](/media/writing/shunde-lvxing/fig-04.webp)
+![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-04.webp)
 
-![](/media/writing/shunde-lvxing/fig-05.webp)
+![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-05.webp)
 
-![](/media/writing/shunde-lvxing/fig-06.webp)
+![](https://baizhichen-web.github.io/media/writing/shunde-lvxing/fig-06.webp)
 
 ## V. What I Hope For
 
@@ -1757,7 +1757,7 @@ Travel is often a matter of doing what man can and leaving the rest to heaven. W
 
 # 如切如磋，如琢如磨
 
-> 来源：[/projects/ceramic-cmf.md](/projects/ceramic-cmf.md)（本站项目页的 Markdown 副本）
+> 来源：[https://baizhichen-web.github.io/projects/ceramic-cmf.md](https://baizhichen-web.github.io/projects/ceramic-cmf.md)（本站项目页的 Markdown 副本）
 
 
 
@@ -1769,7 +1769,7 @@ Travel is often a matter of doing what man can and leaving the rest to heaven. W
 
 # 儿童 AI 折纸打印机
 
-> 来源：[/projects/zhezhi-printer.md](/projects/zhezhi-printer.md)（本站项目页的 Markdown 副本）
+> 来源：[https://baizhichen-web.github.io/projects/zhezhi-printer.md](https://baizhichen-web.github.io/projects/zhezhi-printer.md)（本站项目页的 Markdown 副本）
 
 时期：2026 · 角色：独立完成（毕业论文） · 状态：进行中
 

@@ -1,10 +1,10 @@
 # We are very willing to help and assist anyone, even our competitors
 
-> 来源：[/writing/liangwenfeng.en.md](/writing/liangwenfeng.en.md)（本站文章的 Markdown 副本 · English edition）
+> 来源：[https://baizhichen-web.github.io/writing/liangwenfeng.en.md](https://baizhichen-web.github.io/writing/liangwenfeng.en.md)（本站文章的 Markdown 副本 · English edition）
 
 Date：2026.07 · Form：Commentary
 
-![We are very willing to help and assist anyone, even our competitors——封面取自「不争」所在局部](/media/writing/liangwenfeng/calli.webp)
+![We are very willing to help and assist anyone, even our competitors——封面取自「不争」所在局部](https://baizhichen-web.github.io/media/writing/liangwenfeng/calli.webp)
 
 **Summary** — 并读 Dean Ball、阿莫迪与梁文锋三场表态，看见三种 AI 世界观，落回梁文锋的『不争』。
 

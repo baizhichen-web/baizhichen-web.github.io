@@ -1,6 +1,6 @@
 # 如切如磋，如琢如磨
 
-> 来源：[/projects/ceramic-cmf.md](/projects/ceramic-cmf.md)（本站项目页的 Markdown 副本）
+> 来源：[https://baizhichen-web.github.io/projects/ceramic-cmf.md](https://baizhichen-web.github.io/projects/ceramic-cmf.md)（本站项目页的 Markdown 副本）
 
 
 

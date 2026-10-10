@@ -2,7 +2,7 @@
 
 陈柏志 — 设计专硕研究生在读
 
-> 来源：[/resume.md](/resume.md)（本站页面 "简历" 的 Markdown 副本）
+> 来源：[https://baizhichen-web.github.io/resume.md](https://baizhichen-web.github.io/resume.md)（本站页面 "简历" 的 Markdown 副本）
 
 政治面貌：中共党员　外语：CET6-478
 
@@ -19,7 +19,7 @@
   - 推免至北京师范大学未来设计学院
   - 校区：厦门 · 福建
 
-GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 563 次贡献 / 64 个活跃日（2025-10-05 → 2026-10-07）
+GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 590 次贡献 / 66 个活跃日（2025-10-05 → 2026-10-10）
 
 ## 关于
 
@@ -90,7 +90,7 @@ DOI: 10.1177/14771535261455253　（第三作者）
 
 协助辅导员与班主任开展新生入学适应、班级建设与学业引导工作。参与迎新接待、入学教育与日常管理，组织破冰交流、主题班会与专业认知活动，对接新生日常事务与答疑，协助评奖评优、材料整理与信息统计，关注新生心理与适应情况，搭建新生与院系之间的沟通桥梁。
 
-- SCI 收录检索证明（SCI PROOF · PDF）：/docs/sci-proof.pdf
+- SCI 收录检索证明（SCI PROOF · PDF）：https://baizhichen-web.github.io/docs/sci-proof.pdf
 
 ## 获奖
 
@@ -149,7 +149,7 @@ DOI: 10.1177/14771535261455253　（第三作者）
 - 设计表现技法Ⅰ：92
 - 设计素描Ⅰ：91
 
-- 本科成绩单（TRANSCRIPT · PDF）：/docs/transcript.pdf
+- 本科成绩单（TRANSCRIPT · PDF）：https://baizhichen-web.github.io/docs/transcript.pdf
 
 ## 自我评价
 
@@ -174,6 +174,6 @@ DOI: 10.1177/14771535261455253　（第三作者）
 - 邮箱：202622089004@mail.bnu.edu.cn
 - 小红书：https://www.xiaohongshu.com/user/profile/5d554004000000001200b5d5
 - GitHub：https://github.com/baizhichen-web
-- 简历 PDF（中文）（RESUME · PDF）：/docs/resume.pdf
-- 作品集（10 个项目）（PORTFOLIO · PDF）：/docs/portfolio.pdf
+- 简历 PDF（中文）（RESUME · PDF）：https://baizhichen-web.github.io/docs/resume.pdf
+- 作品集（10 个项目）（PORTFOLIO · PDF）：https://baizhichen-web.github.io/docs/portfolio.pdf
 

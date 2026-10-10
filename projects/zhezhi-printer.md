@@ -1,6 +1,6 @@
 # 儿童 AI 折纸打印机
 
-> 来源：[/projects/zhezhi-printer.md](/projects/zhezhi-printer.md)（本站项目页的 Markdown 副本）
+> 来源：[https://baizhichen-web.github.io/projects/zhezhi-printer.md](https://baizhichen-web.github.io/projects/zhezhi-printer.md)（本站项目页的 Markdown 副本）
 
 时期：2026 · 角色：独立完成（毕业论文） · 状态：进行中
 

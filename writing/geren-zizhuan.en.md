@@ -1,10 +1,10 @@
 # Personal Autobiography
 
-> 来源：[/writing/geren-zizhuan.en.md](/writing/geren-zizhuan.en.md)（本站文章的 Markdown 副本 · English edition）
+> 来源：[https://baizhichen-web.github.io/writing/geren-zizhuan.en.md](https://baizhichen-web.github.io/writing/geren-zizhuan.en.md)（本站文章的 Markdown 副本 · English edition）
 
 Date：2026.09 · Form：Autobiography
 
-![Personal Autobiography——封面取自「自己」所在局部](/media/writing/geren-zizhuan/calli.webp)
+![Personal Autobiography——封面取自「自己」所在局部](https://baizhichen-web.github.io/media/writing/geren-zizhuan/calli.webp)
 
 **Summary** — 从家里的小卖部写起，回望二十二年的观察、设计与成长，把自己当作第一个设计对象。
 
@@ -22,10 +22,10 @@ I grew up in just such a shop. I did not leave until I was eighteen, though ever
 
 It was like a small field of its own, like a milk carton resting exactly in the square frame on top of a fence. Unconscious design surfaced in this little shop, and I unknowingly practiced observing these unconscious acts, these small and real traces.
 
-![The shop as it looks today](/media/zizhuan/01-xiaodian.webp)
+![The shop as it looks today](https://baizhichen-web.github.io/media/zizhuan/01-xiaodian.webp)
 *The shop as it looks today*
 
-![The “subconscious behavior” shared in the books 《深泽直人》(Naoto Fukasawa) and 《设计的生态学》(The Ecology of Design)](/media/zizhuan/02-shenze.webp)
+![The “subconscious behavior” shared in the books 《深泽直人》(Naoto Fukasawa) and 《设计的生态学》(The Ecology of Design)](https://baizhichen-web.github.io/media/zizhuan/02-shenze.webp)
 *The “subconscious behavior” shared in the books 《深泽直人》(Naoto Fukasawa) and 《设计的生态学》(The Ecology of Design)*
 
 It was just such a shop that recorded the growth of a child, of a family, of a street, of a community.
