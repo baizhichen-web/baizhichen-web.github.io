@@ -19,7 +19,7 @@
   - 推免至北京师范大学未来设计学院
   - 校区：厦门 · 福建
 
-GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 594 次贡献 / 67 个活跃日（2025-10-12 → 2026-10-11）
+GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 598 次贡献 / 67 个活跃日（2025-10-12 → 2026-10-11）
 
 ## 关于
 
