@@ -64,13 +64,11 @@ GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 623
 
 **2025 年度福建省社会科学基金项目** — SCI 收录 · JCR Q3 · IF 2（2025.01–2026.05）
 
-论文：人工照明光谱构成-情绪耦合作用下的陶瓷材质感知机制实证研究（Lighting Research and Technology，SCI，JCR Q3，IF：2）
+论文：人工照明光谱构成-情绪耦合作用下的陶瓷材质感知机制实证研究（第三作者）
 
-Correlated colour temperature effects on perceived temperature, translucency, glossiness and roughness of traditional Jun porcelain, modulated by gender
+Wang, M., Tan, Y., Chen, B., & Song, W. (2026). Correlated colour temperature effects on perceived temperature, translucency, glossiness and roughness of traditional Jun porcelain, modulated by gender. Lighting Research & Technology. https://doi.org/10.1177/14771535261455253（SCI，JCR Q3，IF：2）
 
 以钧瓷为对象，在 2700–6000K 八档色温、恒定 150lx 条件下测量 30 名被试对光泽度、透明度、粗糙度、温度感与浮雕感五个维度的感知：色温与其中四个维度呈显著线性关系，且性别具调节作用。
-
-DOI: 10.1177/14771535261455253　（第三作者）
 
 **臭氧催化氧化配套反应装置** — 实用新型专利 · 互联网+ 银奖 · 青苔 TOP100（2023.09–2024.12）
 
