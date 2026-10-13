@@ -19,7 +19,7 @@
   - 推免至北京师范大学未来设计学院
   - 校区：厦门 · 福建
 
-GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 611 次贡献 / 67 个活跃日（2025-10-12 → 2026-10-11）
+GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 623 次贡献 / 68 个活跃日（2025-10-12 → 2026-10-13）
 
 ## 关于
 
@@ -62,9 +62,9 @@ GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 611
 
 ## 其他项目经历
 
-**2025 年度福建省社会科学基金项目** — SCI 收录（2025.01–2026.05）
+**2025 年度福建省社会科学基金项目** — SCI 收录 · JCR Q3 · IF 2（2025.01–2026.05）
 
-论文：人工照明光谱构成-情绪耦合作用下的陶瓷材质感知机制实证研究（Lighting Research and Technology，SCI 收录）
+论文：人工照明光谱构成-情绪耦合作用下的陶瓷材质感知机制实证研究（Lighting Research and Technology，SCI，JCR Q3，IF：2）
 
 Correlated colour temperature effects on perceived temperature, translucency, glossiness and roughness of traditional Jun porcelain, modulated by gender
 
