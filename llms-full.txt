@@ -69,7 +69,7 @@
   - 推免至北京师范大学未来设计学院
   - 校区：厦门 · 福建
 
-GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 625 次贡献 / 69 个活跃日（2025-10-12 → 2026-10-14）
+GitHub：[baizhichen-web](https://github.com/baizhichen-web) · 过去一年 627 次贡献 / 70 个活跃日（2025-10-12 → 2026-10-14）
 
 ## 关于
 
@@ -220,6 +220,8 @@ Wang, M., Tan, Y., Chen, B., & Song, W. (2026). Correlated colour temperature ef
 接受实习与合作咨询，欢迎来信！我会阅读所有邮件或者消息，并回复大部分邮件。
 
 - 邮箱：202622089004@mail.bnu.edu.cn
+- 电话：18250698500
+- 微信：a18250698500
 - 小红书：https://www.xiaohongshu.com/user/profile/5d554004000000001200b5d5
 - GitHub：https://github.com/baizhichen-web
 - 简历 PDF（中文）（RESUME · PDF）：https://baizhichen-web.github.io/docs/resume.pdf
